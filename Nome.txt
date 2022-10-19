@@ -1,8 +1,14 @@
 Gabriel Pessoa de Queiroz Freitas - Informática para Internet - 2º Período - Campus Natal Zona-Norte
 
+ENVIAR AS ALTERAÇÕES:
 
 git add .
 
 git commit -m "Comentario qualquer"
 
 git push origin NomedaBRANCH	
+
+
+TROCAR DE BRANCH:
+
+git checkout NomedaBRANCH
